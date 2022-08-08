@@ -1,9 +1,9 @@
 # Pre-Placement-Module-2023
 
-- Name:Kumar Vaibhav Jangid
-- University Roll No.:1900290400070
-- Branch:ME
-- Section:B
+- Name: Kumar Vaibhav Jangid
+- University Roll No.: 1900290400070
+- Branch: ME
+- Section: B
 - Preferred Programming Language: C++/Java/Python
 
 ## Coding Profiles
